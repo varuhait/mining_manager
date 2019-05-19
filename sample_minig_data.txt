@@ -1,0 +1,20 @@
+#↓をコピーして戦利品ウィンドウからコピペ欄に張り付ければテストできます
+(実際に戦利品ウィンドウからコピーするとこんな感じになります)
+
+07:00:58 miner1 が 1 x Mackinaw* をルート
+05:56:08 miner tester が 8,027 x Iridescent Gneiss* をルート
+08:52:58 miner super が 1,933 x Iridescent Gneiss* をルート
+15:54:56 miner1 が 1,614 x Iridescent Gneiss* をルート
+04:12:45 miner1 が 1 x Hulk* をルート
+09:32:58 yang wenli が 5,428 x Flawless Arkonor* をルート
+08:36:08 murai が 10,800 x Flawless Arkonor* をルート
+09:15:08 miner super が 2,804 x Flawless Arkonor* をルート
+06:04:04 murai が 4,392 x Dark Ochre* をルート
+00:05:10 Edwin Fischer が 17,673 x Spodumain* をルート
+02:56:10 yang wenli が 17,747 x Spodumain* をルート
+18:26:10 miner tester が 9,601 x Glowing Carnotite* をルート
+08:29:10 miner super が 20,283 x Glowing Carnotite* をルート
+09:32:04 The Mittani が 11,374 x Glowing Carnotite* をルート
+04:09:24 The Mittani が 2 x Mobile Depot* をルート
+06:05:51 Sort Dragon が 48,721 x Shining Ytterbite* をルート
+12:16:10 The Mittani が 46,812 x Ytterbite* をルート
